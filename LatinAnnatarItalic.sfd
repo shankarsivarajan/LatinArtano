@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1107308935
-ModificationTime: 1662323259
+ModificationTime: 1663780302
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,6 +59,7 @@ Lookup: 1 0 0 "NoCaps" { "NoCaps subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <
 Lookup: 6 0 0 "Finals" { "Finals contextual 0"  "Finals contextual 1"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
 Lookup: 4 0 1 "Ligatures" { "Ligatures subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "kernHorizontalKerninginLatinlookup0" { "kernHorizontalKerninginLatinlookup0 subtable" [307,30,0] } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -3838,11 +3839,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 14
+WinInfo: 0 48 16
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 480256 240128 160085 454656 -1048576 160085 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "accent_cedilla"""  "accent_above""" 
+AnchorClass2: "accent_above" "'mark' Mark Positioning in Latin lookup 1-1" "accent_cedilla"""  "accent_above""" 
 BeginChars: 65542 456
 
 StartChar: uni0000
@@ -4791,7 +4792,7 @@ Encoding: 77 77 19
 Width: 2020
 GlyphClass: 2
 Flags: W
-AnchorPoint: "accent_above" 1142 1200 basechar 0
+AnchorPoint: "accent_above" 1234 1200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4867,7 +4868,6 @@ SplineSet
  -40 662 -40 662 -48 662 c 0,137,138
  -64 662 -64 662 -64 675 c 0,0,1
 EndSplineSet
-Validated: 1
 Substitution2: "NoCaps subtable" m
 EndChar
 
@@ -4929,7 +4929,6 @@ SplineSet
  -150 662 -150 662 -158 662 c 0,87,88
  -174 662 -174 662 -174 675 c 0,0,1
 EndSplineSet
-Validated: 1
 Substitution2: "NoCaps subtable" n
 EndChar
 
@@ -6663,7 +6662,7 @@ Encoding: 109 109 55
 Width: 2020
 GlyphClass: 2
 Flags: W
-AnchorPoint: "accent_above" 1142 1200 basechar 0
+AnchorPoint: "accent_above" 1234 1200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6739,7 +6738,6 @@ SplineSet
  -40 662 -40 662 -48 662 c 0,137,138
  -64 662 -64 662 -64 675 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: n
@@ -13897,7 +13895,6 @@ LayerCount: 2
 Fore
 Refer: 145 769 N 1 0 0 1 1427 161 2
 Refer: 20 78 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "NoCaps subtable" nacute
 EndChar
 
@@ -13920,7 +13917,6 @@ LayerCount: 2
 Fore
 Refer: 151 780 N 1 0 0 1 1172 66 2
 Refer: 20 78 N 1 0 0 1 0 0 3
-Validated: 32769
 Substitution2: "NoCaps subtable" ncaron
 EndChar
 
@@ -14265,7 +14261,6 @@ LayerCount: 2
 Fore
 Refer: 10 74 N 1 0 0 1 1261 0 2
 Refer: 20 78 N 1 0 0 1 0 0 2
-Validated: 32769
 EndChar
 
 StartChar: uni01CB
@@ -14276,7 +14271,6 @@ LayerCount: 2
 Fore
 Refer: 53 106 N 1 0 0 1 1261 0 2
 Refer: 20 78 N 1 0 0 1 0 0 2
-Validated: 32769
 EndChar
 
 StartChar: uni01CD
@@ -15097,7 +15091,6 @@ LayerCount: 2
 Fore
 Refer: 144 768 N 1 0 0 1 944 155 2
 Refer: 20 78 N 1 0 0 1 0 0 3
-Validated: 32769
 EndChar
 
 StartChar: uni01F9
@@ -15895,7 +15888,6 @@ LayerCount: 2
 Fore
 Refer: 155 807 N 1 0 0 1 536 0 2
 Refer: 20 78 N 1 0 0 1 0 0 3
-Validated: 32773
 Substitution2: "NoCaps subtable" ncommaaccent
 Decomposition: "N+AycA"
 EndChar
@@ -16497,9 +16489,8 @@ Width: 2020
 GlyphClass: 2
 LayerCount: 2
 Fore
-Refer: 153 775 N 1 0 0 1 1582 63 2
+Refer: 153 775 N 1 0 0 1 1674 63 2
 Refer: 19 77 N 1 0 0 1 0 0 3
-Validated: 32769
 EndChar
 
 StartChar: uni1E41
@@ -16508,9 +16499,8 @@ Width: 2020
 GlyphClass: 2
 LayerCount: 2
 Fore
-Refer: 153 775 N 1 0 0 1 1582 63 2
+Refer: 153 775 N 1 0 0 1 1674 63 2
 Refer: 55 109 N 1 0 0 1 0 0 3
-Validated: 32769
 EndChar
 
 StartChar: uni1E56
