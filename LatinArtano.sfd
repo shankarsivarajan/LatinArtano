@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1107308935
-ModificationTime: 1664243894
+ModificationTime: 1664323707
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -10920,17 +10920,17 @@ SplineSet
  345 -98 345 -98 298 -98 c 0,77,78
  153 -98 153 -98 67 3 c 0,79,80
  -8 90 -8 90 -8 223 c 0,0,1
-589 1182 m 0,81,82
- 573 1181 573 1181 571 1199 c 0,83,84
- 571 1228 571 1228 908 1561 c 2,85,-1
- 990 1641 l 2,86,87
- 1015 1666 1015 1666 1035 1666 c 0,88,89
- 1060 1666 1060 1666 1067 1644 c 0,90,91
- 1069 1638 1069 1638 1070 1631 c 0,92,93
- 1070 1613 1070 1613 1049 1591 c 0,94,95
- 1042 1584 1042 1584 965 1510 c 0,96,97
- 715 1273 715 1273 622 1202 c 0,98,99
- 596 1182 596 1182 589 1182 c 0,81,82
+580 1119 m 0,81,82
+ 559 1118 559 1118 556 1142 c 0,83,84
+ 556 1181 556 1181 1007 1626 c 2,85,-1
+ 1116 1733 l 2,86,87
+ 1150 1766 1150 1766 1177 1766 c 0,88,89
+ 1210 1766 1210 1766 1220 1737 c 0,90,91
+ 1223 1729 1223 1729 1223 1720 c 0,92,93
+ 1223 1696 1223 1696 1195 1666 c 0,94,95
+ 1186 1656 1186 1656 1083 1557 c 0,96,97
+ 749 1240 749 1240 624 1145 c 0,98,99
+ 589 1119 589 1119 580 1119 c 0,81,82
 EndSplineSet
 Validated: 33
 EndChar
@@ -10993,17 +10993,17 @@ SplineSet
  345 -98 345 -98 298 -98 c 0,77,78
  153 -98 153 -98 67 3 c 0,79,80
  -8 90 -8 90 -8 223 c 0,0,1
-589 1182 m 0,81,82
- 573 1181 573 1181 571 1199 c 0,83,84
- 571 1228 571 1228 908 1561 c 2,85,-1
- 990 1641 l 2,86,87
- 1015 1666 1015 1666 1035 1666 c 0,88,89
- 1060 1666 1060 1666 1067 1644 c 0,90,91
- 1069 1638 1069 1638 1070 1631 c 0,92,93
- 1070 1613 1070 1613 1049 1591 c 0,94,95
- 1042 1584 1042 1584 965 1510 c 0,96,97
- 715 1273 715 1273 622 1202 c 0,98,99
- 596 1182 596 1182 589 1182 c 0,81,82
+580 1119 m 0,81,82
+ 559 1118 559 1118 556 1142 c 0,83,84
+ 556 1181 556 1181 1007 1626 c 2,85,-1
+ 1116 1733 l 2,86,87
+ 1150 1766 1150 1766 1177 1766 c 0,88,89
+ 1210 1766 1210 1766 1220 1737 c 0,90,91
+ 1223 1729 1223 1729 1223 1720 c 0,92,93
+ 1223 1696 1223 1696 1195 1666 c 0,94,95
+ 1186 1656 1186 1656 1083 1557 c 0,96,97
+ 749 1240 749 1240 624 1145 c 0,98,99
+ 589 1119 589 1119 580 1119 c 0,81,82
 EndSplineSet
 Validated: 33
 Substitution2: "NoCaps subtable" sacute
@@ -11488,27 +11488,27 @@ EndChar
 
 StartChar: ae
 Encoding: 230 230 138
-Width: 1796
+Width: 1795
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 48 101 N 1 0 0 1 853 0 2
 Refer: 73 97 N 1 0 0 1 0 0 2
-Validated: 32773
+Validated: 98309
 Decomposition: "ae"
 EndChar
 
 StartChar: AE
 Encoding: 198 198 139
-Width: 1796
+Width: 1795
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 48 101 N 1 0 0 1 853 0 2
 Refer: 73 97 N 1 0 0 1 0 0 2
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" ae
 EndChar
 
@@ -11624,25 +11624,24 @@ Encoding: 289 768 143
 Width: 8
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_up" 381 1647 basemark 0
-AnchorPoint: "mkmk_up" 180 1046 mark 0
-AnchorPoint: "accent_above" 500 1046 mark 0
+AnchorPoint: "mkmk_up" 611 1776 basemark 0
+AnchorPoint: "mkmk_up" 410 1175 mark 0
+AnchorPoint: "accent_above" 410 1175 mark 0
 LayerCount: 2
 Fore
 SplineSet
-499 1027 m 0,0,1
- 492 1027 492 1027 466 1047 c 0,2,3
- 356.503180212 1130.59434629 356.503180212 1130.59434629 123 1355 c 0,4,5
- 46 1429 46 1429 39 1436 c 0,6,7
- 18 1458 18 1458 18 1476 c 0,8,9
- 18 1483 18 1483 20 1489 c 0,10,11
- 27 1511 27 1511 52 1511 c 0,12,13
- 72.6875 1511 72.6875 1511 98 1486 c 2,14,-1
- 179 1406 l 2,15,16
- 517.590078377 1071.42879496 517.590078377 1071.42879496 517 1045 c 0,17,18
- 517 1026 517 1026 499 1027 c 0,0,1
+13 1679 m 0,0,1
+ 13 1713 13 1713 43 1722 c 0,2,3
+ 50 1724 50 1724 57 1724 c 0,4,5
+ 88 1724 88 1724 141 1672 c 0,6,7
+ 147 1667 147 1667 291 1517 c 0,8,9
+ 632 1162 632 1162 632 1126 c 0,10,11
+ 632 1107 632 1107 610 1104 c 0,12,13
+ 575 1104 575 1104 220 1445 c 0,14,15
+ 39 1621 39 1621 30 1634 c 0,16,17
+ 13 1656 13 1656 13 1679 c 0,0,1
 EndSplineSet
-Validated: 33
+Validated: 1
 EndChar
 
 StartChar: acutecomb
@@ -11650,23 +11649,23 @@ Encoding: 290 769 144
 Width: 5
 GlyphClass: 4
 Flags: W
-AnchorPoint: "accent_above" 30 1045 mark 0
-AnchorPoint: "mkmk_up" 30 1045 mark 0
-AnchorPoint: "mkmk_up" 231 1646 basemark 0
+AnchorPoint: "accent_above" 30 1195 mark 0
+AnchorPoint: "mkmk_up" 30 1195 mark 0
+AnchorPoint: "mkmk_up" 231 1796 basemark 0
 LayerCount: 2
 Fore
 SplineSet
-31 1027 m 0,0,1
- 15 1026 15 1026 13 1044 c 0,2,3
- 13 1073 13 1073 350 1406 c 2,4,-1
- 432 1486 l 2,5,6
- 457 1511 457 1511 477 1511 c 0,7,8
- 502 1511 502 1511 509 1489 c 0,9,10
- 511 1483 511 1483 512 1476 c 0,11,12
- 512 1458 512 1458 491 1436 c 0,13,14
- 484 1429 484 1429 407 1355 c 0,15,16
- 157 1118 157 1118 64 1047 c 0,17,18
- 38 1027 38 1027 31 1027 c 0,0,1
+22 1114 m 0,0,1
+ 1 1113 1 1113 -2 1137 c 0,2,3
+ -2 1176 -2 1176 449 1621 c 2,4,-1
+ 558 1728 l 2,5,6
+ 592 1761 592 1761 619 1761 c 0,7,8
+ 652 1761 652 1761 662 1732 c 0,9,10
+ 665 1724 665 1724 665 1715 c 0,11,12
+ 665 1691 665 1691 637 1661 c 0,13,14
+ 628 1651 628 1651 525 1552 c 0,15,16
+ 191 1235 191 1235 66 1140 c 0,17,18
+ 31 1114 31 1114 22 1114 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -11820,37 +11819,37 @@ EndChar
 
 StartChar: uni030B
 Encoding: 295 779 149
-Width: 0
+Width: 5
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_up" 441 1686 basemark 0
-AnchorPoint: "mkmk_up" 240 1085 mark 0
-AnchorPoint: "accent_above" 240 1085 mark 0
+AnchorPoint: "mkmk_up" 561 1896 basemark 0
+AnchorPoint: "mkmk_up" 320 1175 mark 0
+AnchorPoint: "accent_above" 320 1175 mark 0
 LayerCount: 2
 Fore
 SplineSet
-49 1085 m 0,0,1
- 33 1084 33 1084 31 1102 c 0,2,3
- 31 1131 31 1131 368 1464 c 2,4,-1
- 449 1544 l 2,5,6
- 474 1569 474 1569 495 1568 c 0,7,8
- 520 1568 520 1568 527 1547 c 0,9,10
- 529 1541 529 1541 529 1534 c 0,11,12
- 529 1516 529 1516 508 1493 c 0,13,14
- 501 1486 501 1486 425 1412 c 0,15,16
- 175 1175 175 1175 82 1104 c 0,17,18
- 56 1085 56 1085 49 1085 c 0,0,1
-405 1085 m 0,19,20
- 389 1084 389 1084 387 1102 c 0,21,22
- 387 1131 387 1131 724 1464 c 2,23,-1
- 805 1544 l 2,24,25
- 830 1569 830 1569 851 1568 c 0,26,27
- 876 1568 876 1568 883 1547 c 0,28,29
- 885 1541 885 1541 885 1534 c 0,30,31
- 885 1516 885 1516 864 1493 c 0,32,33
- 857 1486 857 1486 780 1412 c 0,34,35
- 530 1175 530 1175 437 1104 c 0,36,37
- 412 1085 412 1085 405 1085 c 0,19,20
+522 1104 m 0,0,1
+ 501 1103 501 1103 498 1127 c 0,2,3
+ 498 1166 498 1166 949 1611 c 2,4,-1
+ 1058 1718 l 2,5,6
+ 1092 1751 1092 1751 1119 1751 c 0,7,8
+ 1152 1751 1152 1751 1162 1722 c 0,9,10
+ 1165 1714 1165 1714 1165 1705 c 0,11,12
+ 1165 1681 1165 1681 1137 1651 c 0,13,14
+ 1128 1641 1128 1641 1025 1542 c 0,15,16
+ 691 1225 691 1225 566 1130 c 0,17,18
+ 531 1104 531 1104 522 1104 c 0,0,1
+22 1104 m 0,19,20
+ 1 1103 1 1103 -2 1127 c 0,21,22
+ -2 1166 -2 1166 449 1611 c 2,23,-1
+ 558 1718 l 2,24,25
+ 592 1751 592 1751 619 1751 c 0,26,27
+ 652 1751 652 1751 662 1722 c 0,28,29
+ 665 1714 665 1714 665 1705 c 0,30,31
+ 665 1681 665 1681 637 1651 c 0,32,33
+ 628 1641 628 1641 525 1542 c 0,34,35
+ 191 1225 191 1225 66 1130 c 0,36,37
+ 31 1104 31 1104 22 1104 c 0,19,20
 EndSplineSet
 Validated: 1
 EndChar
@@ -12029,9 +12028,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 357 154 2
+Refer: 143 768 N 1 0 0 1 447 25 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" agrave
 EndChar
 
@@ -12042,9 +12041,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 827 155 2
+Refer: 144 769 N 1 0 0 1 827 5 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" aacute
 EndChar
 
@@ -12057,7 +12056,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 537 85 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" acircumflex
 EndChar
 
@@ -12070,7 +12069,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 327 25 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" atilde
 EndChar
 
@@ -12083,7 +12082,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 657 145 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" adieresis
 EndChar
 
@@ -12096,7 +12095,7 @@ LayerCount: 2
 Fore
 Refer: 148 778 N 1 0 0 1 697 95 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" aring
 EndChar
 
@@ -12107,9 +12106,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 360 154 2
+Refer: 143 768 N 1 0 0 1 450 25 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" ugrave
 EndChar
 
@@ -12120,9 +12119,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 830 155 2
+Refer: 144 769 N 1 0 0 1 830 5 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" uacute
 EndChar
 
@@ -12135,7 +12134,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 540 85 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" ucircumflex
 EndChar
 
@@ -12148,7 +12147,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 660 145 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" udieresis
 EndChar
 
@@ -12159,9 +12158,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 589 155 2
+Refer: 144 769 N 1 0 0 1 589 5 2
 Refer: 67 121 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" yacute
 EndChar
 
@@ -12174,7 +12173,7 @@ LayerCount: 2
 Fore
 Refer: 154 807 N 1 0 0 1 219 0 2
 Refer: 43 99 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" ccedilla
 EndChar
 
@@ -12185,9 +12184,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 257 154 2
+Refer: 143 768 N 1 0 0 1 261 25 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" egrave
 EndChar
 
@@ -12198,9 +12197,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 727 155 2
+Refer: 144 769 N 1 0 0 1 641 5 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" eacute
 EndChar
 
@@ -12211,9 +12210,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 145 770 N 1 0 0 1 437 85 2
+Refer: 145 770 N 1 0 0 1 351 85 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" ecircumflex
 EndChar
 
@@ -12224,9 +12223,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 147 776 N 1 0 0 1 557 145 2
+Refer: 147 776 N 1 0 0 1 471 145 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 Substitution2: "NoCaps subtable" edieresis
 EndChar
 
@@ -12237,9 +12236,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 -96 154 2
+Refer: 143 768 N 1 0 0 1 -6 25 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" igrave
 EndChar
 
@@ -12250,9 +12249,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 374 155 2
+Refer: 144 769 N 1 0 0 1 374 5 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" iacute
 EndChar
 
@@ -12265,7 +12264,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 84 85 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" icircumflex
 EndChar
 
@@ -12278,7 +12277,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 204 145 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" idieresis
 EndChar
 
@@ -12291,7 +12290,7 @@ LayerCount: 2
 Fore
 Refer: 154 807 N 1 0 0 1 219 0 2
 Refer: 43 99 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar
 
 StartChar: egrave
@@ -12301,9 +12300,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 257 154 2
+Refer: 143 768 N 1 0 0 1 261 25 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar
 
 StartChar: eacute
@@ -12313,9 +12312,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 727 155 2
+Refer: 144 769 N 1 0 0 1 641 5 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar
 
 StartChar: ecircumflex
@@ -12325,9 +12324,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 145 770 N 1 0 0 1 437 85 2
+Refer: 145 770 N 1 0 0 1 351 85 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar
 
 StartChar: edieresis
@@ -12337,9 +12336,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 147 776 N 1 0 0 1 557 145 2
+Refer: 147 776 N 1 0 0 1 471 145 2
 Refer: 48 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar
 
 StartChar: igrave
@@ -12349,9 +12348,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 -96 154 2
+Refer: 143 768 N 1 0 0 1 -6 25 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: iacute
@@ -12361,9 +12360,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 374 155 2
+Refer: 144 769 N 1 0 0 1 374 5 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: icircumflex
@@ -12375,7 +12374,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 84 85 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: idieresis
@@ -12387,7 +12386,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 204 145 2
 Refer: 107 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: ntilde
@@ -12399,7 +12398,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 391 25 2
 Refer: 56 110 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: ograve
@@ -12409,9 +12408,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 112 154 2
+Refer: 143 768 N 1 0 0 1 202 25 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: oacute
@@ -12421,9 +12420,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 582 155 2
+Refer: 144 769 N 1 0 0 1 582 5 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: ocircumflex
@@ -12435,7 +12434,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 292 85 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: otilde
@@ -12447,7 +12446,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 82 25 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: odieresis
@@ -12459,7 +12458,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 412 145 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: Ntilde
@@ -12471,7 +12470,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 391 25 2
 Refer: 56 110 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" ntilde
 EndChar
 
@@ -12482,9 +12481,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 112 154 2
+Refer: 143 768 N 1 0 0 1 202 25 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" ograve
 EndChar
 
@@ -12495,9 +12494,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 582 155 2
+Refer: 144 769 N 1 0 0 1 582 5 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" oacute
 EndChar
 
@@ -12510,7 +12509,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 292 85 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" ocircumflex
 EndChar
 
@@ -12523,7 +12522,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 82 25 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" otilde
 EndChar
 
@@ -12536,7 +12535,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 412 145 2
 Refer: 57 111 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 Substitution2: "NoCaps subtable" odieresis
 EndChar
 
@@ -12547,9 +12546,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 360 154 2
+Refer: 143 768 N 1 0 0 1 450 25 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: uacute
@@ -12559,9 +12558,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 830 155 2
+Refer: 144 769 N 1 0 0 1 830 5 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: ucircumflex
@@ -12573,7 +12572,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 540 85 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: udieresis
@@ -12585,7 +12584,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 660 145 2
 Refer: 63 117 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: yacute
@@ -12595,9 +12594,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 589 155 2
+Refer: 144 769 N 1 0 0 1 589 5 2
 Refer: 67 121 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: agrave
@@ -12607,9 +12606,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 143 768 N 1 0 0 1 357 154 2
+Refer: 143 768 N 1 0 0 1 447 25 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: aacute
@@ -12619,9 +12618,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 144 769 N 1 0 0 1 827 155 2
+Refer: 144 769 N 1 0 0 1 827 5 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: acircumflex
@@ -12633,7 +12632,7 @@ LayerCount: 2
 Fore
 Refer: 145 770 N 1 0 0 1 537 85 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: atilde
@@ -12645,7 +12644,7 @@ LayerCount: 2
 Fore
 Refer: 146 771 N 1 0 0 1 327 25 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: adieresis
@@ -12657,7 +12656,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 657 145 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: aring
@@ -12669,7 +12668,7 @@ LayerCount: 2
 Fore
 Refer: 148 778 N 1 0 0 1 697 95 2
 Refer: 73 97 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: ydieresis
@@ -12681,7 +12680,7 @@ LayerCount: 2
 Fore
 Refer: 147 776 N 1 0 0 1 419 145 2
 Refer: 67 121 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
 
 StartChar: dieresis
@@ -12814,37 +12813,35 @@ EndChar
 
 StartChar: uni030F
 Encoding: 302 783 212
-Width: 2
+Width: 8
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_up" 361 1646 basemark 0
-AnchorPoint: "mkmk_up" 160 1045 mark 0
-AnchorPoint: "accent_above" 680 1045 mark 0
+AnchorPoint: "accent_above" 350 1175 mark 0
+AnchorPoint: "mkmk_up" 350 1175 mark 0
+AnchorPoint: "mkmk_up" 591 1896 basemark 0
 LayerCount: 2
 Fore
 SplineSet
-496 1044 m 0,0,1
- 489 1044 489 1044 463 1063 c 0,2,3
- 370 1134 370 1134 120 1371 c 0,4,5
- 43 1445 43 1445 36 1453 c 0,6,7
- 15 1475 15 1475 15 1493 c 0,8,9
- 15 1500 15 1500 18 1506 c 0,10,11
- 25 1528 25 1528 50 1527 c 0,12,13
- 70 1527 70 1527 95 1503 c 2,14,-1
- 177 1423 l 2,15,16
- 514 1090 514 1090 514 1061 c 0,17,18
- 512 1043 512 1043 496 1044 c 0,0,1
-850 1044 m 0,19,20
- 843 1044 843 1044 817 1063 c 0,21,22
- 724 1134 724 1134 474 1371 c 0,23,24
- 397 1445 397 1445 390 1453 c 0,25,26
- 369 1475 369 1475 369 1493 c 0,27,28
- 369 1500 369 1500 371 1506 c 0,29,30
- 378 1528 378 1528 403 1527 c 0,31,32
- 423 1527 423 1527 449 1503 c 2,33,-1
- 531 1423 l 2,34,35
- 868 1090 868 1090 868 1061 c 0,36,37
- 866 1043 866 1043 850 1044 c 0,19,20
+63 1679 m 0,0,1
+ 63 1713 63 1713 93 1722 c 0,2,3
+ 100 1724 100 1724 107 1724 c 0,4,5
+ 138 1724 138 1724 191 1672 c 0,6,7
+ 197 1667 197 1667 341 1517 c 0,8,9
+ 682 1162 682 1162 682 1126 c 0,10,11
+ 682 1107 682 1107 660 1104 c 0,12,13
+ 625 1104 625 1104 270 1445 c 0,14,15
+ 89 1621 89 1621 80 1634 c 0,16,17
+ 63 1656 63 1656 63 1679 c 0,0,1
+-437 1679 m 0,18,19
+ -437 1713 -437 1713 -407 1722 c 0,20,21
+ -400 1724 -400 1724 -393 1724 c 0,22,23
+ -362 1724 -362 1724 -309 1672 c 0,24,25
+ -303 1667 -303 1667 -159 1517 c 0,26,27
+ 182 1162 182 1162 182 1126 c 0,28,29
+ 182 1107 182 1107 160 1104 c 0,30,31
+ 125 1104 125 1104 -230 1445 c 0,32,33
+ -411 1621 -411 1621 -420 1634 c 0,34,35
+ -437 1656 -437 1656 -437 1679 c 0,18,19
 EndSplineSet
 Validated: 1
 EndChar
@@ -13792,7 +13789,7 @@ SplineSet
  253.6875 554.22265625 253.6875 554.22265625 407.6875 525.22265625 c 0,102,103
  530.6875 502.22265625 530.6875 502.22265625 601.6875 502.22265625 c 0,68,69
 EndSplineSet
-Validated: 1572869
+Validated: 1048581
 EndChar
 
 StartChar: Tbar
@@ -13861,7 +13858,7 @@ SplineSet
  253.6875 554.22265625 253.6875 554.22265625 407.6875 525.22265625 c 0,102,103
  530.6875 502.22265625 530.6875 502.22265625 601.6875 502.22265625 c 0,68,69
 EndSplineSet
-Validated: 1572869
+Validated: 1048581
 EndChar
 
 StartChar: uni01B6
@@ -13934,7 +13931,7 @@ SplineSet
  364.900390625 534.1953125 364.900390625 534.1953125 518.900390625 505.1953125 c 0,111,112
  641.900390625 482.1953125 641.900390625 482.1953125 712.900390625 482.1953125 c 0,77,78
 EndSplineSet
-Validated: 1572869
+Validated: 1048581
 EndChar
 
 StartChar: uni01B5
@@ -14007,7 +14004,7 @@ SplineSet
  364.900390625 534.1953125 364.900390625 534.1953125 518.900390625 505.1953125 c 0,111,112
  641.900390625 482.1953125 641.900390625 482.1953125 712.900390625 482.1953125 c 0,77,78
 EndSplineSet
-Validated: 1572869
+Validated: 1048581
 EndChar
 EndChars
 EndSplineFont
