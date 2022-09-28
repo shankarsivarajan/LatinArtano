@@ -1,4 +1,4 @@
 # Latin Artano
 Latin font based on glyphs from Johan Winge's *Tengwar Annatar Italic.*
 
-![artano_latin_lorem](https://user-images.githubusercontent.com/16606427/192416184-2d92d3b8-680b-4981-b49e-18c5304ab116.png)
+![artano_lorem_ipsum](https://user-images.githubusercontent.com/16606427/192659453-942b8e1f-2838-4ac2-99d0-50f29c06b307.png)
