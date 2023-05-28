@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1107308935
-ModificationTime: 1676523919
+ModificationTime: 1685277724
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -60,7 +60,7 @@ Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 sub
 Lookup: 4 0 1 "Ligatures" { "Ligatures subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark in Latin lookup 2" { "'mkmk' Mark to Mark in Latin lookup 2-1"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "kernpairs" { "kernpairs subtable"  } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "kernpairs" { "kernpairs subtable" [307,0,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 6 4 "kernpairs subtable"
@@ -9326,7 +9326,7 @@ SplineSet
  756.491210938 810.750976562 756.491210938 810.750976562 762.689453125 793.526367188 c 128,-1,179
  768.88671875 776.301757812 768.88671875 776.301757812 765.204101562 762.283203125 c 1,115,116
 EndSplineSet
-Validated: 1572901
+Validated: 1048613
 Ligature2: "Ligatures subtable" s s.final
 LCarets2: 1 0
 EndChar
