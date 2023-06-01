@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1107308935
-ModificationTime: 1685277724
+ModificationTime: 1685630578
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -60,10 +60,10 @@ Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 sub
 Lookup: 4 0 1 "Ligatures" { "Ligatures subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark in Latin lookup 2" { "'mkmk' Mark to Mark in Latin lookup 2-1"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 8 0 "kernpairs" { "kernpairs subtable" [307,0,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "kernpairs" { "kernpairs subtable" [307,0,0] } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 6 4 "kernpairs subtable"
+KernClass2: 6 5 "kernpairs subtable"
  92 ae e e_tehta eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek oe
  58 germandbls s.final sacute scaron scedilla scircumflex sdot
  1 r
@@ -72,7 +72,8 @@ KernClass2: 6 4 "kernpairs subtable"
  92 ae e e_tehta eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek oe
  58 germandbls s.final sacute scaron scedilla scircumflex sdot
  1 p
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 150 {} 0 {} 0 {} 0 {} 300 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {} -75 {} 0 {} 0 {}
+ 1 t
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 50 {} 150 {} 0 {} 0 {} 0 {} 0 {} 300 {} 0 {} 0 {} -200 {} 0 {} 0 {} 150 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "Finals contextual 1" 0 0 0 1
  1 0 0
   Coverage: 1 s
@@ -3848,7 +3849,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 14
+WinInfo: 0 31 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 480256 240128 160085 454656 -1048576 160085 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
